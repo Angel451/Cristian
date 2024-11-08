@@ -1,0 +1,35 @@
+body{
+    background-color: aquamarine;
+}
+
+.años{ 
+    margin: 0;
+padding: 0.3rem;
+background-color: azure;
+ }
+
+.años > h1, 
+.edad{
+margin: 0.5rem;
+padding: 0.7rem;
+font-size: 1.2rem;
+}
+
+.edad{
+background: right/contain content-box border-box no-repeat
+url(`/media/exaples/rain.svd`) aquamarine;
+}
+
+.edad > h2,
+.edad > p{
+margin: 0.2rem;
+font-size: 1rem;
+}
+
+div{
+    back
+
+video{ground-color: azure;
+}
+    width: 1000px;
+}
